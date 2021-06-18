@@ -22,18 +22,6 @@ $(document).ready(function() {
     });
 
 
-    $(".downloadButton").on('click', function() {
-        window.open("https://play.google.com/store/apps/details?id=com.mtlteam.miquizzer");
-    });
-
-
-    $(".privacyButton").on('click', function() {
-        window.open("./privacy/privacy.php");
-    });
-
-    $(".facebookButton").on('click', function() {
-        window.open("https://www.facebook.com/groups/526796088284325/?ref=share");
-    });
 
 
 

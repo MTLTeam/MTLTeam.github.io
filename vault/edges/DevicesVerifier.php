@@ -1,1 +1,0 @@
-<!-- Use for verification or identifie devices -->

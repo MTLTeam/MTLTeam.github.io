@@ -9,8 +9,7 @@
         Global Css
     -------------- */
 :root {
-    /* --main-color: #7857fe; */
-    --main-color: #064683;
+    --main-color: #7857fe;
     --color-1: #e91e63;
     --color-2: #f5ae10;
     --color-3: #09d69c;
@@ -256,8 +255,8 @@ ul {
         Home section
     -------------- */
 .home {
-    min-height: 100vh;
-    padding: 150px 0 40px 0;
+    min-height: 80vh;
+    padding: 150px 0 0 0;
     background-color: var(--main-to-dark-color);
     /* border-radius: 0 0 200px 0; */
 }
@@ -573,7 +572,7 @@ ul {
     width: 100%;
     display: block;
     margin: auto;
-    /* box-shadow: var(--shadow-black-100); */
+    box-shadow: var(--shadow-black-100);
 }
 
 /*  --------------
@@ -696,7 +695,7 @@ ul {
 .footer .copyright-text {
     padding: 20px 0;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     color: rgba(255, 255, 255, 0.9);
     font-weight: 300;
     margin: 50px 0 0;
